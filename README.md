@@ -1,2 +1,2 @@
 # EquipoDos
-Repositorio del Equipo Dos para la materia de Néstor.
+Repositorio del Equipo Dos para la materia de Néstor Chico.
